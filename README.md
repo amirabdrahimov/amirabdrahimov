@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @amirabdrahimov
-- 👀 I’m interested in Data Science
+- 👀 I’m interested in Machine Learning
 - 🌱 I’m currently learning Computer Vision 
-- 📫 You can contact me by telegram - @amirabdrahimov
+- 📫 You can contact me by amirabdrahimov@gmail.com and Telegram - @amirabdrahimov
 
 <!---
 amirabdrahimov/amirabdrahimov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
